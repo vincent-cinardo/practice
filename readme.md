@@ -1,0 +1,1 @@
+This is a repository for me to practice programming. Projects added include tutorials and small projects. This will also strengthen my understanding of the modern workflow by learning git simultaneously.
